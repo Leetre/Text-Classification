@@ -1,5 +1,6 @@
 # Text-Classification
 Text Classification Based on CNN
+
 Operation Declaration:
 - run disorganize.py to disorganize training data;
 - run pretreat_and_divide to pretreat and split the whole dataset;
